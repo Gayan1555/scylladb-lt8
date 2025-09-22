@@ -1,0 +1,1 @@
+# scylladb-lt8
